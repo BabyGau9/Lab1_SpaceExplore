@@ -1,5 +1,4 @@
-# Lab1_SpaceExplore
-Space Explore Unity Game (Rule)
+Space Explore
 
 MENUPANEL
 - Menu contains buttons: Controls, Play, Exit
